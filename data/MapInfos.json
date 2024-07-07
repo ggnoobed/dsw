@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Overworld","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":614.6666666666666},
+{"id":2,"expanded":false,"name":"RiversideRuins1","order":2,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":3,"expanded":true,"name":"SandyRuins","order":3,"parentId":1,"scrollX":1081.3333333333333,"scrollY":852},
+{"id":4,"expanded":false,"name":"SandyRuinsDungeon","order":4,"parentId":3,"scrollX":1081.3333333333333,"scrollY":614.6666666666666},
+{"id":5,"expanded":false,"name":"OutpostSeaside","order":5,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":6,"expanded":false,"name":"DesertDungeon","order":6,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":7,"expanded":false,"name":"TheStash","order":7,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":8,"expanded":true,"name":"StonerockCity","order":8,"parentId":1,"scrollX":1082.6666666666667,"scrollY":1902.6666666666667},
+{"id":9,"expanded":false,"name":"StonerockShop","order":9,"parentId":8,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":10,"expanded":false,"name":"StonerockSewers","order":10,"parentId":8,"scrollX":1081.3333333333333,"scrollY":614.6666666666666},
+{"id":11,"expanded":true,"name":"GhosttownF0","order":11,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":12,"expanded":false,"name":"Ghosttownguneon","order":12,"parentId":11,"scrollX":1081.3333333333333,"scrollY":604},
+{"id":13,"expanded":false,"name":"DemonCastleInterior1","order":14,"parentId":14,"scrollX":1081.3333333333333,"scrollY":1305.3333333333333},
+{"id":14,"expanded":true,"name":"Demon Castle","order":13,"parentId":1,"scrollX":1081.3333333333333,"scrollY":1440},
+{"id":15,"expanded":false,"name":"DemonCastleInterior2","order":15,"parentId":14,"scrollX":1081.3333333333333,"scrollY":1305.3333333333333}
+]

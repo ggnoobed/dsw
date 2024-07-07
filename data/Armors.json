@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"A basic sunhat, to keep the sun out of your eyes.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Sunhat","note":"","params":[0,0,0,2,0,0,0,0],"price":100},
+{"id":2,"atypeId":1,"description":"A T-Shirt, nothing more.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"T-Shirt","note":"","params":[0,0,0,2,0,0,0,0],"price":100},
+{"id":3,"atypeId":1,"description":"Some old Tennis Shoes.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":140,"name":"Tennis Shoes","note":"","params":[0,0,0,2,0,0,0,0],"price":100},
+{"id":4,"atypeId":1,"description":"A Helmet used by Raiders. Not too rare, and great armor\nfor novice adventurers.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"Raider Helm","note":"","params":[0,0,0,6,0,0,0,0],"price":250},
+{"id":5,"atypeId":1,"description":"A handmade chestpiece. OK armor.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"Raider Chestpiece","note":"","params":[0,0,0,7,0,0,0,0],"price":500},
+{"id":6,"atypeId":1,"description":"Salvaged military boots, reinforced with sheetmetal.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":141,"name":"Raider Boots","note":"","params":[0,0,0,6,0,0,0,0],"price":300},
+{"id":7,"atypeId":1,"description":"A great upgrade to any helmet. This one comes with\ngoggles to keep your retinas safe!","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Helmet with Goggles","note":"","params":[0,0,0,14,0,0,-1,0],"price":800},
+{"id":8,"atypeId":1,"description":"Armor made from the chitin on the corpses of Giant \nMonsters, and other smaller creatures.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Chitin Armor","note":"","params":[0,0,0,18,0,0,-2,0],"price":1200},
+{"id":9,"atypeId":1,"description":"Boots made of steel, with cloth innards.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":141,"name":"Steel Boots","note":"","params":[0,0,0,10,0,0,-1,0],"price":900},
+{"id":10,"atypeId":1,"description":"A classic iron shield.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Iron Shield","note":"","params":[0,0,0,18,0,0,-1,0],"price":1200},
+{"id":11,"atypeId":1,"description":"A somewhat old wooden shield, with some of the wood\nbeginning to rot.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Wooden Shield","note":"","params":[0,0,0,9,0,0,0,0],"price":700},
+{"id":12,"atypeId":1,"description":"These goggles are extra lucky.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":151,"name":"Goggles","note":"","params":[0,0,0,-1,0,0,0,20],"price":500},
+{"id":13,"atypeId":1,"description":"Heavy Daemonic plate armor, which is said to carry\nunluckyness everywhere its user goes.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Daemonic Plate Armor","note":"","params":[0,0,0,24,0,0,-2,-10],"price":2500},
+{"id":14,"atypeId":1,"description":"This makes you more powerful, at the cost of your off\nhand's ability to wield extra shielding.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":146,"name":"Daemon Sigil","note":"","params":[0,0,11,0,0,0,0,0],"price":2000}
+]
